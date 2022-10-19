@@ -54,3 +54,5 @@ function buttonAnimation(currentKey) {
     activebutton.classList.remove("pressed");
   }, 100);
 }
+
+//error with github
